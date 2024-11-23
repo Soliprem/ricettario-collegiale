@@ -7,7 +7,18 @@ on:
     branches:
       - main
 jobs:
-  build_and_deploy:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
+      with:
+        args: --minify
+    - uses: actions/upload-artifact@master
+      with:
+        name: website
+        path: './public'
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
