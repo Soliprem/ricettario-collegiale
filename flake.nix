@@ -13,6 +13,7 @@
       default = pkgs.mkShell {
         buildInputs = with pkgs; [
           nushell
+          firebase-tools
           hugo
         ];
         shellHook = ''

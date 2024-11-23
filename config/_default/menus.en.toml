@@ -11,36 +11,53 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
- pageRef = "posts"
+ name = "Ricette"
+ pageRef = "ricette"
+ weight = 20
+
+[[main]]
+ name = "Primi"
+ parent = "Ricette"
+ pageRef = "/tags/primi"
  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+ name = "Secondi"
+ parent = "Ricette"
+ pageRef = "/tags/secondi"
+ weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+ name = "Contorni"
+ parent = "Ricette"
+ pageRef = "/tags/contorni"
+ weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+ name = "Dessert"
+ parent = "Ricette"
+ pageRef = "/tags/dessert"
+ weight = 30
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
+[[subnavigation]]
+ name = "Primi"
+ pageRef = "/tags/primi"
+ weight = 10
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[subnavigation]]
+ name = "Secondi"
+ pageRef = "/tags/secondi"
+ weight = 20
+
+[[subnavigation]]
+ name = "Contorni"
+ pageRef = "/tags/contorni"
+ weight = 20
+
+[[subnavigation]]
+ name = "Dessert"
+ pageRef = "/tags/dessert"
+ weight = 30
 
 #[[main]]
 #  name = "Categories"
