@@ -1,6 +1,5 @@
 ---
 date: '2024-11-23T21:29:45+01:00'
-draft: true
 title: 'Pasta con salsa/pesto Tigullio™'
 showAuthor: false
 tags:

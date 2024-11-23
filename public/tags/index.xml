@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Soliprem</title>
+    <title>Tags on Ricettario Collegiale</title>
     <link>https://soliprem.eu/tags/</link>
-    <description>Recent content in Tags on Soliprem</description>
+    <description>Recent content in Tags on Ricettario Collegiale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>soliprem@soliprem.eu (Ricettario dei Collegiali)</managingEditor>
     <webMaster>soliprem@soliprem.eu (Ricettario dei Collegiali)</webMaster>
     <copyright>© 2024 Ricettario dei Collegiali</copyright>
-    <atom:link href="https://soliprem.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Nov 2024 21:29:45 +0100</lastBuildDate><atom:link href="https://soliprem.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primi</title>
+      <link>https://soliprem.eu/tags/primi/</link>
+      <pubDate>Sat, 23 Nov 2024 21:29:45 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>https://soliprem.eu/tags/primi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Senza Glutine</title>
+      <link>https://soliprem.eu/tags/senza-glutine/</link>
+      <pubDate>Sat, 23 Nov 2024 21:29:45 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>https://soliprem.eu/tags/senza-glutine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Senza Lattosio</title>
+      <link>https://soliprem.eu/tags/senza-lattosio/</link>
+      <pubDate>Sat, 23 Nov 2024 21:29:45 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>https://soliprem.eu/tags/senza-lattosio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vegano</title>
+      <link>https://soliprem.eu/tags/vegano/</link>
+      <pubDate>Sat, 23 Nov 2024 21:29:45 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>https://soliprem.eu/tags/vegano/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
