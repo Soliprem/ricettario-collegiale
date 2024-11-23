@@ -9,8 +9,6 @@ tags:
 
 # Crostata
 
-\#vegana (potenzialmente)
-
 ## Ingredienti
 
 ### Versione non vegana
