@@ -40,23 +40,23 @@
  weight = 30
 
 [[subnavigation]]
- name = "10 Minuti"
- pageRef = "/tags/10m"
- weight = 10
-
-[[subnavigation]]
  name = "15 Minuti"
  pageRef = "/tags/15m"
- weight = 20
-
-[[subnavigation]]
- name = "20 Minuti"
- pageRef = "/tags/20m"
- weight = 30
+ weight = 10
 
 [[subnavigation]]
  name = "30 Minuti"
  pageRef = "/tags/30m"
+ weight = 20
+
+[[subnavigation]]
+ name = "45 Minuti"
+ pageRef = "/tags/45m"
+ weight = 30
+
+[[subnavigation]]
+ name = "60 Minuti"
+ pageRef = "/tags/60m"
  weight = 40
 
 
