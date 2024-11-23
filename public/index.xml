@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soliprem</title>
+    <link>https://soliprem.eu/</link>
+    <description>Recent content on Soliprem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>soliprem@soliprem.eu (Ricettario dei Collegiali)</managingEditor>
+    <webMaster>soliprem@soliprem.eu (Ricettario dei Collegiali)</webMaster>
+    <copyright>© 2024 Ricettario dei Collegiali</copyright>
+    <lastBuildDate>Sat, 23 Nov 2024 21:29:45 +0100</lastBuildDate><atom:link href="https://soliprem.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://soliprem.eu/about/</link>
+      <pubDate>Wed, 27 Mar 2024 05:41:29 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>https://soliprem.eu/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

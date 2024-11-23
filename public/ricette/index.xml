@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricettes on Soliprem</title>
+    <link>https://soliprem.eu/ricette/</link>
+    <description>Recent content in Ricettes on Soliprem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>soliprem@soliprem.eu (Ricettario dei Collegiali)</managingEditor>
+    <webMaster>soliprem@soliprem.eu (Ricettario dei Collegiali)</webMaster>
+    <copyright>© 2024 Ricettario dei Collegiali</copyright>
+    <lastBuildDate>Sat, 23 Nov 2024 21:29:45 +0100</lastBuildDate><atom:link href="https://soliprem.eu/ricette/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

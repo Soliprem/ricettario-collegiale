@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Soliprem</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Soliprem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>soliprem@soliprem.eu (Francesco Prem Solidoro)</managingEditor>
+    <webMaster>soliprem@soliprem.eu (Francesco Prem Solidoro)</webMaster>
+    <copyright>© 2024 Francesco Prem Solidoro</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 12:19:03 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Approaches to Social Sciences</title>
+      <link>http://localhost:1313/posts/new_app_socsci/</link>
+      <pubDate>Thu, 27 Jun 2024 12:19:03 +0200</pubDate>
+      <author>soliprem@soliprem.eu (Francesco Prem Solidoro)</author>
+      <guid>http://localhost:1313/posts/new_app_socsci/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/new_app_socsci/featured.png" />
+    </item>
+    
+    <item>
+      <title>La figura di Shostakovich come un Sisifo moderno</title>
+      <link>http://localhost:1313/posts/shostakovich_sisifo/</link>
+      <pubDate>Thu, 18 Apr 2024 03:28:00 +0200</pubDate>
+      <author>soliprem@soliprem.eu (Francesco Prem Solidoro)</author>
+      <guid>http://localhost:1313/posts/shostakovich_sisifo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/shostakovich_sisifo/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>TIL that San&#39;Orsola is pretty much the size of a small town</title>
+      <link>http://localhost:1313/posts/sant_orsola/</link>
+      <pubDate>Tue, 02 Apr 2024 18:50:49 +0200</pubDate>
+      <author>soliprem@soliprem.eu (Francesco Prem Solidoro)</author>
+      <guid>http://localhost:1313/posts/sant_orsola/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>An analysis of the correlation between gun regulation and public safety in the United States of America</title>
+      <link>http://localhost:1313/posts/multi-author/</link>
+      <pubDate>Tue, 02 Apr 2024 00:56:05 +0200</pubDate>
+      <author>soliprem@soliprem.eu (Francesco Prem Solidoro)</author>
+      <guid>http://localhost:1313/posts/multi-author/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/multi-author/featured.png" />
+    </item>
+    
+    <item>
+      <title>Why</title>
+      <link>http://localhost:1313/posts/why/</link>
+      <pubDate>Wed, 27 Mar 2024 06:10:08 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Francesco Prem Solidoro)</author>
+      <guid>http://localhost:1313/posts/why/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Beeper</title>
+      <link>http://localhost:1313/posts/beeper/</link>
+      <pubDate>Wed, 24 May 2023 11:45:22 +0200</pubDate>
+      <author>soliprem@soliprem.eu (Francesco Prem Solidoro)</author>
+      <guid>http://localhost:1313/posts/beeper/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

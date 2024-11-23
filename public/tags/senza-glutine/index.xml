@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senza Glutine on Soliprem</title>
+    <link>http://localhost:1313/tags/senza-glutine/</link>
+    <description>Recent content in Senza Glutine on Soliprem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>soliprem@soliprem.eu (Ricettario dei Collegiali)</managingEditor>
+    <webMaster>soliprem@soliprem.eu (Ricettario dei Collegiali)</webMaster>
+    <copyright>© 2024 Ricettario dei Collegiali</copyright>
+    <lastBuildDate>Sat, 23 Nov 2024 21:29:45 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/senza-glutine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pasta con salsa/pesto Tigullio™</title>
+      <link>http://localhost:1313/ricette/pasta-salsa-tigullio/</link>
+      <pubDate>Sat, 23 Nov 2024 21:29:45 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>http://localhost:1313/ricette/pasta-salsa-tigullio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risotto Limone Salvia</title>
+      <link>http://localhost:1313/ricette/risotto-limone-salvia/</link>
+      <pubDate>Sat, 23 Nov 2024 21:29:45 +0100</pubDate>
+      <author>soliprem@soliprem.eu (Ricettario dei Collegiali)</author>
+      <guid>http://localhost:1313/ricette/risotto-limone-salvia/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
