@@ -1,4 +1,4 @@
-disabled = false
+disabled = true
 languageCode = "en"
 languageName = "English"
 weight = 1
