@@ -18,9 +18,9 @@ jobs:
       with:
         name: website
         path: './public'
-      - uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_RICETTARIO_COLLEGIALE }}
-          channelId: live
-          projectId: ricettario-collegiale
+    - uses: FirebaseExtended/action-hosting-deploy@v0
+      with:
+        repoToken: ${{ secrets.GITHUB_TOKEN }}
+        firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_RICETTARIO_COLLEGIALE }}
+        channelId: live
+        projectId: ricettario-collegiale
