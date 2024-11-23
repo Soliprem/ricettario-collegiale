@@ -1,10 +1,11 @@
 ---
 date: '2024-11-23T21:29:45+01:00'
-title: 'Risotto Limone Salvia'
+title: 'Tofu in Agrodolce'
 tags:
     - vegano
     - "senza glutine"
     - "senza lattosio"
+    - secondi
 ---
 
 # Tofu in agrodolce {#tofu-in-agrodolce}

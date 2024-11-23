@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Ricettario Collegiale</title>
+    <link>https://soliprem.eu/en/series/</link>
+    <description>Recent content in Series on Ricettario Collegiale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>soliprem@soliprem.eu (Ricettario dei Collegiali)</managingEditor>
+    <webMaster>soliprem@soliprem.eu (Ricettario dei Collegiali)</webMaster>
+    <copyright>© 2024 Ricettario dei Collegiali</copyright>
+    <atom:link href="https://soliprem.eu/en/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
