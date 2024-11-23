@@ -9,6 +9,5 @@ node_modules
 .Spotlight-V100
 .Trashes
 
-# Hugo
-public
-
+# firebase
+.firebase
