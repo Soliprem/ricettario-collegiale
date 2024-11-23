@@ -14,13 +14,13 @@ jobs:
       - uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
         with:
           args: --minify
-    - uses: actions/upload-artifact@master
-      with:
-        name: website
-        path: './public'
-    - uses: FirebaseExtended/action-hosting-deploy@v0
-      with:
-        repoToken: ${{ secrets.GITHUB_TOKEN }}
-        firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_RICETTARIO_COLLEGIALE }}
-        channelId: live
-        projectId: ricettario-collegiale
+      - uses: actions/upload-artifact@master
+        with:
+          name: website
+          path: './public'
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_RICETTARIO_COLLEGIALE }}
+          channelId: live
+          projectId: ricettario-collegiale
