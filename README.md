@@ -1,3 +1,3 @@
-# Personal Website
+# Ricettario CSB
 
-Personal Website made using [Blowfish](https://blowfish.page), a hugo template
+Ricettario degli studenti del Collegio Superiore di Bologna
