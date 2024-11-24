@@ -24,9 +24,9 @@ disableTextInHeader = false
 defaultBackgroundImage = "asinelli-garisenda-bologna.jpg" # used as default for background images 
 defaultFeaturedImage = "/img/featured.svg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
