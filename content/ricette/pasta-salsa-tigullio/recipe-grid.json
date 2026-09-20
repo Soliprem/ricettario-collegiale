@@ -1,0 +1,48 @@
+{
+  "servings": "1 persona",
+  "rows": [
+    {
+      "ingredient": "Pasta",
+      "quantity": "100–150 g",
+      "steps": [
+        {
+          "title": "Cuocere",
+          "note": ""
+        },
+        {
+          "title": "Scolare",
+          "note": ""
+        },
+        {
+          "title": "Condire e servire",
+          "note": "Mescolare con salsa o pesto; parmigiano se desiderato.",
+          "rowspan": 3
+        }
+      ]
+    },
+    {
+      "ingredient": "Salsa o pesto Tigullio™",
+      "quantity": "⅓ di un barattolo da 185 g",
+      "steps": [
+        {
+          "title": "Scegliere il condimento",
+          "note": "Usare la salsa o il pesto disponibile.",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Parmigiano",
+      "quantity": "2 cucchiai, opzionali",
+      "steps": [
+        {
+          "title": "Tenere pronto",
+          "note": "",
+          "colspan": 2
+        }
+      ]
+    }
+  ],
+  "note": "Preparazione: circa 15 minuti. Le varianti vegana e senza glutine dipendono dalla pasta e dal condimento scelti.",
+  "preparationColumns": 3
+}

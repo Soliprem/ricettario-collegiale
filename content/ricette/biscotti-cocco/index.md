@@ -6,7 +6,11 @@ tags:
     - "senza lattosio"
     - dessert
     - 30m
+showTableOfContents: false
 ---
+
+{{< recipe-grid >}}
+
 
 # Biscotti al cocco
 

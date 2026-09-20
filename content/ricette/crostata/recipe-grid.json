@@ -1,0 +1,101 @@
+{
+  "servings": "1 crostata · teglia Ø 20 cm",
+  "rows": [
+    {
+      "ingredient": "Zucchero · burro oppure olio di semi",
+      "quantity": "150 g di zucchero; 150 g di burro oppure 100 g di olio",
+      "steps": [
+        {
+          "title": "Mescolare",
+          "note": "Burro a temperatura ambiente e zucchero a crema; nella variante vegana usare olio."
+        },
+        {
+          "title": "Amalgamare",
+          "note": "Incorporare l’uovo; ometterlo nella variante vegana.",
+          "rowspan": 2
+        },
+        {
+          "title": "Impastare",
+          "note": "Unire polveri e aroma. Usare prima la forchetta e poi le mani, lavorando poco.",
+          "rowspan": 4
+        },
+        {
+          "title": "Riposare",
+          "note": "Avvolgere in pellicola: circa 30 minuti in frigo. Riposo facoltativo nella versione vegana.",
+          "rowspan": 4
+        },
+        {
+          "title": "Stendere e bucherellare",
+          "note": "Nella teglia unta e infarinata; bordi alti. Tenere pasta per strisce e contorno.",
+          "rowspan": 5
+        },
+        {
+          "title": "Farcire e decorare",
+          "note": "Aggiungere marmellata, strisce e contorno.",
+          "rowspan": 6
+        },
+        {
+          "title": "Cuocere",
+          "note": "175 °C per circa 35 minuti. Controllare doratura e consistenza.",
+          "rowspan": 6
+        }
+      ]
+    },
+    {
+      "ingredient": "Uovo",
+      "quantity": "1; omettere nella versione vegana",
+      "steps": [
+        {
+          "title": "Aggiungere alla crema",
+          "note": "Saltare nella variante vegana."
+        }
+      ]
+    },
+    {
+      "ingredient": "Farina 00 · lievito",
+      "quantity": "300 g; ½ bustina di lievito per dolci",
+      "steps": [
+        {
+          "title": "Setacciare insieme",
+          "note": "",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Aroma",
+      "quantity": "Vaniglia, scorza di limone o cannella",
+      "steps": [
+        {
+          "title": "Scegliere l’aroma",
+          "note": "",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Burro oppure olio · farina extra",
+      "quantity": "Q.b. per la teglia",
+      "steps": [
+        {
+          "title": "Ungere e infarinare",
+          "note": "Teglia di circa 20 cm.",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "ingredient": "Marmellata",
+      "quantity": "A scelta, q.b.",
+      "steps": [
+        {
+          "title": "Tenere pronta",
+          "note": "",
+          "colspan": 5
+        }
+      ]
+    }
+  ],
+  "note": "Preparazione: circa 15 minuti; riposo: circa 30 minuti per la frolla al burro; cottura: circa 35 minuti. Variante vegana: 100 g di olio al posto dei 150 g di burro, senza uovo.",
+  "preparationColumns": 7
+}

@@ -1,0 +1,85 @@
+{
+  "servings": "1 persona",
+  "rows": [
+    {
+      "ingredient": "Tofu",
+      "quantity": "Circa 125 g",
+      "steps": [
+        {
+          "title": "Strizzare",
+          "note": ""
+        },
+        {
+          "title": "Tagliare a cubetti",
+          "note": ""
+        },
+        {
+          "title": "Impanare",
+          "note": "Passare i cubetti nella maizena.",
+          "rowspan": 2
+        },
+        {
+          "title": "Dorare",
+          "note": "Con un filo d’olio, a fuoco medio-basso per circa 15 minuti, su tutti i lati.",
+          "rowspan": 3
+        },
+        {
+          "title": "Abbassare il fuoco e unire",
+          "note": "Versare la salsa sul tofu.",
+          "rowspan": 4
+        },
+        {
+          "title": "Mescolare e addensare",
+          "note": "Aggiungere il burro di arachidi; lasciar rapprendere a piacere.",
+          "rowspan": 5
+        }
+      ]
+    },
+    {
+      "ingredient": "Maizena",
+      "quantity": "Q.b. per impanare",
+      "steps": [
+        {
+          "title": "Preparare in una ciotola",
+          "note": "",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Olio",
+      "quantity": "Un filo",
+      "steps": [
+        {
+          "title": "Versare nella padella",
+          "note": "",
+          "colspan": 3
+        }
+      ]
+    },
+    {
+      "ingredient": "Acqua · maizena · salsa di soia · miele",
+      "quantity": "Q.b.; altra maizena per la salsa",
+      "steps": [
+        {
+          "title": "Mescolare",
+          "note": "In un bicchiere, preparare la salsa.",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "ingredient": "Burro di arachidi",
+      "quantity": "Q.b.",
+      "steps": [
+        {
+          "title": "Tenere pronto",
+          "note": "Aggiungere dopo la salsa.",
+          "colspan": 5
+        }
+      ]
+    }
+  ],
+  "note": "Circa 25 minuti. Occorrente: ciotola, bicchiere e padella. La ricetta contiene miele; non è vegana così com’è. Per la versione senza glutine, verificare la salsa di soia.",
+  "preparationColumns": 6
+}

@@ -1,0 +1,58 @@
+{
+  "servings": "16 biscotti",
+  "rows": [
+    {
+      "ingredient": "Uova",
+      "quantity": "2 intere",
+      "steps": [
+        {
+          "title": "Sbattere",
+          "note": ""
+        },
+        {
+          "title": "Mescolare bene",
+          "note": "",
+          "rowspan": 2
+        },
+        {
+          "title": "Amalgamare",
+          "note": "Aggiungere gli altri ingredienti.",
+          "rowspan": 3
+        },
+        {
+          "title": "Formare le palline",
+          "note": "Con un cucchiaio, piccole e non troppo compatte. Disporre sulla placca con carta da forno.",
+          "rowspan": 3
+        },
+        {
+          "title": "Cuocere",
+          "note": "180 °C, 15–20 minuti.",
+          "rowspan": 3
+        }
+      ]
+    },
+    {
+      "ingredient": "Zucchero",
+      "quantity": "180 g",
+      "steps": [
+        {
+          "title": "Aggiungere alle uova",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "ingredient": "Farina · cocco · burro facoltativo",
+      "quantity": "2 cucchiai di farina; 170 g di cocco a scaglie; 3–4 scaglie di burro morbido",
+      "steps": [
+        {
+          "title": "Preparare gli ingredienti",
+          "note": "Farina anche senza glutine; burro opzionale.",
+          "colspan": 2
+        }
+      ]
+    }
+  ],
+  "note": "Preparazione: circa 10 minuti. Per la versione senza lattosio, omettere il burro.",
+  "preparationColumns": 5
+}

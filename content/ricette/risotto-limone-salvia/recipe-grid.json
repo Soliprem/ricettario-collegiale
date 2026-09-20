@@ -1,0 +1,118 @@
+{
+  "servings": "1 persona",
+  "rows": [
+    {
+      "ingredient": "Cipolla · carota e sedano facoltativi",
+      "quantity": "½–1 cipolla; ½ carota; ¼ di sedano",
+      "steps": [
+        {
+          "title": "Tagliare le verdure",
+          "note": ""
+        },
+        {
+          "title": "Soffriggere",
+          "note": "Con olio per qualche minuto.",
+          "rowspan": 2
+        },
+        {
+          "title": "Tostare",
+          "note": "Unire il riso; altro olio se necessario.",
+          "rowspan": 3
+        },
+        {
+          "title": "Sfumare",
+          "note": "Con il vino.",
+          "rowspan": 4
+        },
+        {
+          "title": "Risottare",
+          "note": "Unire salvia e brodo. Mescolare spesso; aggiungere brodo mantenendo il riso appena sommerso e a leggero bollore.",
+          "rowspan": 6
+        },
+        {
+          "title": "Mantecare",
+          "note": "A riso cotto, unire succo e scorza di limone e i grassi scelti.",
+          "rowspan": 8
+        }
+      ]
+    },
+    {
+      "ingredient": "Olio",
+      "quantity": "Q.b.",
+      "steps": [
+        {
+          "title": "Versare nella pentola",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "ingredient": "Riso da risotto",
+      "quantity": "80 g",
+      "steps": [
+        {
+          "title": "Tenere pronto",
+          "note": "",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Vino",
+      "quantity": "Q.b.",
+      "steps": [
+        {
+          "title": "Tenere pronto per sfumare",
+          "note": "",
+          "colspan": 3
+        }
+      ]
+    },
+    {
+      "ingredient": "Salvia",
+      "quantity": "Circa 20 foglie; oppure secca",
+      "steps": [
+        {
+          "title": "Tagliare a pezzetti",
+          "note": "",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "ingredient": "Brodo o dado",
+      "quantity": "Q.b.",
+      "steps": [
+        {
+          "title": "Portare a bollore",
+          "note": "In un pentolino separato.",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "ingredient": "Limone",
+      "quantity": "1",
+      "steps": [
+        {
+          "title": "Spremere e tagliare la scorza",
+          "note": "Usare la scorza solo se la buccia è edibile.",
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "ingredient": "Burro · parmigiano",
+      "quantity": "Q.b.; oppure olio e burro di arachidi",
+      "steps": [
+        {
+          "title": "Tenere pronti",
+          "note": "Olio e burro di arachidi per la variante vegana.",
+          "colspan": 5
+        }
+      ]
+    }
+  ],
+  "note": "Circa 45 minuti. Occorrente: una pentola per il risotto e un pentolino per il brodo.",
+  "preparationColumns": 6
+}

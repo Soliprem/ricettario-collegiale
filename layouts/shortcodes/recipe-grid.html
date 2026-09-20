@@ -1,0 +1,31 @@
+{{ $resource := .Page.Resources.GetMatch "recipe-grid.json" }}
+{{ if not $resource }}
+  {{ errorf "recipe-grid: missing recipe-grid.json in %s" .Page.File.Path }}
+{{ else }}
+  {{ $grid := $resource | transform.Unmarshal }}
+  <section class="recipe-grid" aria-label="Tabella della ricetta">
+    <div class="recipe-grid-heading">
+      <h2>Tabella! (ty <a href="https://www.cookingforengineers.com/">cooking for engineers</a>)</h2>
+      <span>{{ $grid.servings }}</span>
+    </div>
+    <div class="recipe-grid-scroll" role="region" aria-label="Diagramma scorrevole della preparazione" tabindex="0">
+      <table aria-label="Ingredienti e preparazioni">
+        <tbody>
+          {{ range $grid.rows }}
+            <tr>
+              {{ if .ingredient }}
+                <th scope="row"{{ with .ingredientRowspan }} rowspan="{{ . }}"{{ end }}><strong>{{ .ingredient }}</strong><small>{{ .quantity }}</small></th>
+              {{ end }}
+              {{ range .steps }}
+                <td{{ with .rowspan }} rowspan="{{ . }}"{{ end }}{{ with .colspan }} colspan="{{ . }}"{{ end }}>
+                  <strong>{{ .title }}</strong>{{ with .note }}<small>{{ . }}</small>{{ end }}
+                </td>
+              {{ end }}
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+    {{ with $grid.note }}<p class="recipe-grid-note">{{ . }}</p>{{ end }}
+  </section>
+{{ end }}

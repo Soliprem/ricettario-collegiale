@@ -1,0 +1,41 @@
+/* Give recipe diagrams the article width without widening other pages. */
+.article-content:has(.recipe-grid), article section > div:has(> .article-content > .recipe-grid) { width: 100%; max-width: none; }
+.article-content:has(.recipe-grid) > :not(.recipe-grid) { max-width: 65ch; }
+.recipe-grid {
+  --grid-paper: rgb(var(--color-neutral));
+  --grid-ink: rgb(var(--color-neutral-700));
+  --grid-line: rgb(var(--color-neutral-200));
+  --grid-accent: rgba(var(--color-neutral-200), .35);
+  margin: 2rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--grid-line);
+  border-radius: .5rem;
+  background: var(--grid-paper);
+  color: var(--grid-ink);
+}
+.dark .recipe-grid {
+  --grid-paper: rgb(var(--color-neutral-800));
+  --grid-ink: rgb(var(--color-neutral-300));
+  --grid-line: rgb(var(--color-neutral-600));
+  --grid-accent: rgba(var(--color-neutral-700), .65);
+}
+.recipe-grid-heading { margin-bottom: 1rem; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem; }
+.recipe-grid h2 { margin: 0; color: inherit; font-family: inherit; font-size: 1.65rem; }
+.recipe-grid-heading > span { padding: .25rem .7rem; border-radius: 20px; background: var(--grid-accent); font-size: .8rem; }
+.recipe-grid .recipe-grid-note { font-size: .8rem; line-height: 1.55; margin: 1rem 0; }
+.recipe-grid .recipe-grid-note { margin-bottom: 0; }
+.recipe-grid-scroll { overflow-x: auto; }
+.recipe-grid-scroll:focus-visible { outline: 2px solid var(--grid-ink); outline-offset: 4px; }
+.recipe-grid table { width: 100%; min-width: 700px; margin: 0; border-collapse: collapse; font-size: .85rem; line-height: 1.4; }
+.recipe-grid th, .recipe-grid td { border: 1px solid var(--grid-line); padding: .8rem; vertical-align: middle; text-align: left; color: inherit; }
+.recipe-grid tbody th { width: 25%; }
+.recipe-grid td[rowspan] { background: var(--grid-accent); }
+.recipe-grid strong { display: block; color: inherit; font-weight: 600; }
+.recipe-grid small { display: block; margin-top: .3rem; font-size: .75rem; font-weight: 400; }
+@media (max-width: 640px) { .recipe-grid { padding: .85rem; } }
+@media print {
+  .recipe-grid, .dark .recipe-grid { --grid-paper: white; --grid-ink: black; --grid-line: #777; --grid-accent: #eee; padding: 0; border: 0; break-inside: avoid; }
+  .recipe-grid-scroll { overflow: visible; }
+  .recipe-grid table { min-width: 0; }
+  .recipe-grid th, .recipe-grid td { padding: .35rem; }
+}

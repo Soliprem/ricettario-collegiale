@@ -1,0 +1,166 @@
+{
+  "servings": "1 persona",
+  "rows": [
+    {
+      "ingredient": "Funghi",
+      "quantity": "4–5",
+      "steps": [
+        {
+          "title": "Pulire e affettare",
+          "note": "Senza bagnarli."
+        },
+        {
+          "title": "Dorare i funghi",
+          "note": "Unire al soffritto; saltare con una noce di burro.",
+          "rowspan": 2
+        },
+        {
+          "title": "Unire il condimento",
+          "note": "Combinare funghi, zucchine e pancetta rosolata.",
+          "rowspan": 5
+        },
+        {
+          "title": "Incorporare",
+          "note": "Unire il condimento al riso quasi cotto.",
+          "rowspan": 7
+        },
+        {
+          "title": "Mantecare",
+          "note": "Con burro a piacere.",
+          "rowspan": 8
+        },
+        {
+          "title": "Impiattare",
+          "note": "Accompagnare con le due preparazioni di mela; gorgonzola e noci a piacere.",
+          "rowspan": 11
+        }
+      ]
+    },
+    {
+      "ingredient": "Cipolla · olio · burro",
+      "quantity": "½–1 cipolla; grassi q.b.",
+      "steps": [
+        {
+          "title": "Preparare il soffritto",
+          "note": "Tagliare la cipolla e soffriggerla con olio."
+        }
+      ]
+    },
+    {
+      "ingredient": "Zucchine",
+      "quantity": "½–1",
+      "steps": [
+        {
+          "title": "Tagliare",
+          "note": "In quarti e poi a fettine."
+        },
+        {
+          "title": "Trifolare",
+          "note": "Saltare le zucchine nel soffritto d’aglio.",
+          "rowspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Aglio · olio",
+      "quantity": "1 spicchio; olio q.b.",
+      "steps": [
+        {
+          "title": "Preparare il soffritto",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "ingredient": "Pancetta",
+      "quantity": "50–100 g",
+      "steps": [
+        {
+          "title": "Rosolare",
+          "note": "Nella padella liberata dalle zucchine; olio se necessario.",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Riso",
+      "quantity": "80–100 g",
+      "steps": [
+        {
+          "title": "Tostare il riso",
+          "note": "Tostare prima di aggiungere il brodo."
+        },
+        {
+          "title": "Risottare",
+          "note": "Aggiungere il brodo caldo poco alla volta, lasciandolo assorbire e ridurre tra le aggiunte, fino a riso quasi cotto.",
+          "colspan": 2,
+          "rowspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Brodo",
+      "quantity": "Q.b.",
+      "steps": [
+        {
+          "title": "Portare a bollore",
+          "note": "In un pentolino separato; tenere caldo per le aggiunte al riso."
+        }
+      ]
+    },
+    {
+      "ingredient": "Burro",
+      "quantity": "A piacere, per mantecare",
+      "steps": [
+        {
+          "title": "Tenere da parte",
+          "note": "",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "ingredient": "Mela",
+      "quantity": "½–1 in totale, divisa tra le due preparazioni",
+      "steps": [
+        {
+          "title": "Tagliare la mela",
+          "note": "Tagliare una parte a fettine sottili."
+        },
+        {
+          "title": "Sfumare",
+          "note": "Nella padella della pancetta aggiungere burro e olio q.b., poca cannella. Sfumare con spirito o acqua; limone o aceto facoltativi.",
+          "colspan": 2
+        },
+        {
+          "title": "Caramellare",
+          "note": "Coprire con cartouche e girare ogni tanto, finché scura senza bruciare.",
+          "colspan": 2
+        }
+      ],
+      "ingredientRowspan": 2
+    },
+    {
+      "steps": [
+        {
+          "title": "Grattugiare o tritare finemente",
+          "note": "Usare la parte restante e tenerla cruda.",
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "ingredient": "Gorgonzola · noci",
+      "quantity": "Facoltativi, q.b.",
+      "steps": [
+        {
+          "title": "Preparare la guarnizione",
+          "note": "Tagliare il gorgonzola a fettine; tenere pronte le noci.",
+          "colspan": 5
+        }
+      ]
+    }
+  ],
+  "note": "Per la mela caramellata: burro, olio, cannella e spirito q.b.; limone o aceto facoltativi.",
+  "preparationColumns": 6
+}

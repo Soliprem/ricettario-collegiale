@@ -6,7 +6,11 @@ tags:
     - vegano
     - "senza glutine"
     - "primi"
+showTableOfContents: false
 ---
+
+{{< recipe-grid >}}
+
 
 # Pasta con salsa/pesto Tigullio™
 

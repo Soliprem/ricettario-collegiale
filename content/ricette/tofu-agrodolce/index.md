@@ -6,7 +6,11 @@ tags:
     - "senza glutine"
     - "senza lattosio"
     - secondi
+showTableOfContents: false
 ---
+
+{{< recipe-grid >}}
+
 
 # Tofu in agrodolce {#tofu-in-agrodolce}
 

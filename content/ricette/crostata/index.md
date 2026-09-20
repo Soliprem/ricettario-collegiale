@@ -5,7 +5,11 @@ tags:
     - vegano
     - dessert
     - 50m
+showTableOfContents: false
 ---
+
+{{< recipe-grid >}}
+
 
 # Crostata
 
