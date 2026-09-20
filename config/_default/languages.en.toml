@@ -1,6 +1,6 @@
 disabled = true
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 weight = 1
 title = "Ricettario Collegiale"
 

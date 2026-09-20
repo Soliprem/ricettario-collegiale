@@ -1,9 +1,7 @@
 +++
 date = '2026-09-20T15:19:58+02:00'
 title = 'Risotto Mela Funghi Pancetta Zucchine'
-tags:
-    - primi
-    - 45m
+tags = ["primi", "45m"]
 +++
 
 # Ingredienti

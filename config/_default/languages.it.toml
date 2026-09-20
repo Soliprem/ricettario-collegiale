@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "it"
-languageName = "Italiano"
+locale = "it"
+label = "Italiano"
 weight = 1
 title = "Ricettario Collegiale"
 
