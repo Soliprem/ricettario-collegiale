@@ -23,7 +23,7 @@ supported Hugo versions and update both Firebase workflows together.
 
 ## Recipe tables
 
-All six recipes include a Cooking for Engineers–style summary. To add one
+Recipes include a Cooking for Engineers–style summary. To add one
 to a new recipe, place `recipe-grid.json` beside its `index.md` and insert
 `{{< recipe-grid >}}` in the Markdown. The risotto's JSON is the example:
 `preparationColumns` counts the process columns (there is no visible header row); each row

@@ -1,0 +1,83 @@
+{
+  "servings": "16 brownies · 9-inch square metal baking pan",
+  "preparationColumns": 6,
+  "rows": [
+    {
+      "ingredient": "Butter · chocolate to melt",
+      "quantity": "3/4 cup (170g) unsalted butter; 2 ounces (56g) semi-sweet chocolate",
+      "steps": [
+        {
+          "title": "Melt",
+          "note": "Melt in 30-second increments, stirring after each, until completely melted and smooth."
+        },
+        {
+          "title": "Set aside to slightly cool"
+        },
+        {
+          "title": "Combine",
+          "note": "Pour the warm melted butter/chocolate into the bowl with the sugar/eggs, add the vanilla, and beat or whisk to combine.",
+          "rowspan": 3
+        },
+        {
+          "title": "Incorporate",
+          "note": "Sift the cocoa powder and flour into the batter, add the salt, then whisk or beat on low speed to incorporate.",
+          "rowspan": 4
+        },
+        {
+          "title": "Fold in and spread",
+          "note": "Fold in the remaining 2 ounces/57g chopped chocolate and the chocolate chips. Spread it evenly into the prepared pan.",
+          "rowspan": 5
+        },
+        {
+          "title": "Bake and cool",
+          "note": "350°F (177°C), 28–30 minutes. Test the center with a toothpick: a few moist crumbs, no wet batter. Keep checking every 2 minutes. Cool completely in the pan on a cooling rack, lift out with the parchment, and cut into squares.",
+          "rowspan": 5
+        }
+      ]
+    },
+    {
+      "ingredient": "Sugar · eggs",
+      "quantity": "1 and 2/3 cups (333g) granulated sugar; 3 large eggs, at room temperature",
+      "steps": [
+        {
+          "title": "Beat together",
+          "note": "Beat on medium-high speed until the sugar is dissolved and the mixture is pale and ribbon-y, about 3 minutes.",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Pure vanilla extract",
+      "quantity": "2 teaspoons",
+      "steps": [
+        {
+          "title": "Measure",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "ingredient": "Cocoa powder · flour · salt",
+      "quantity": "1 cup (84g) unsweetened natural or Dutch-process cocoa; 1 cup (125g) all-purpose flour; 3/4 teaspoon salt",
+      "steps": [
+        {
+          "title": "Sift cocoa powder and flour",
+          "note": "Add the salt with the sifted ingredients.",
+          "colspan": 3
+        }
+      ]
+    },
+    {
+      "ingredient": "Remaining chocolate · chocolate chips",
+      "quantity": "2 ounces (57g) semi-sweet chocolate, coarsely chopped; 1 cup (180g) semi-sweet chocolate chips",
+      "steps": [
+        {
+          "title": "Prepare",
+          "note": "4 ounces (113g) chopped chocolate in total, divided between melting and folding in, plus the chocolate chips.",
+          "colspan": 4
+        }
+      ]
+    }
+  ],
+  "note": "Prep time: 10 minutes · Cook time: 30 minutes · Total time: 3 hours. Line the pan with parchment paper, leaving an overhang on two opposite sides."
+}
